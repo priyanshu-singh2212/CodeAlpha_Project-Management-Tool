@@ -1,0 +1,58 @@
+.activity-container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.activity-heading {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 35px;
+    color: #222;
+}
+
+.no-activity {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.1);
+    text-align: center;
+    font-size: 18px;
+}
+
+.activity-card {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.1);
+    border-left: 5px solid #4f46e5;
+    text-align: left;
+}
+
+.activity-action {
+    color: #4f46e5;
+    margin-bottom: 12px;
+    font-size: 22px;
+}
+
+.activity-details {
+    color: #333;
+    margin-bottom: 12px;
+    line-height: 1.6;
+}
+
+.activity-task {
+    color: #2563eb;
+    margin-bottom: 8px;
+}
+
+.activity-user {
+    color: #444;
+    margin-bottom: 8px;
+}
+
+.activity-date {
+    color: #777;
+    font-size: 13px;
+}
